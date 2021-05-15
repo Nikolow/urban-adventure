@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<books>
+		<book an="9" bn="9000">
+			<author>Bryce Larkin</author>
+		    	<name>Book 1</name>
+		</book>
+
+		<book an="9" bn="9001">
+			<author>Bryce Larkin</author>
+		    	<name>Book 2</name>
+		</book>
+
+		<book an="9" bn="9002">
+			<author>Bryce Larkin</author>
+		    	<name>Book 3</name>
+		</book>
+
+		<book an="10" bn="10000">
+			<author>Baily Jonson</author>
+		    	<name>Book 1</name>
+		</book>
+	</books>

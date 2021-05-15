@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<books>
+		<book an="5" bn="5000">
+			<author>Charli Bum</author>
+		    	<name>Book 1</name>
+		</book>
+
+		<book an="5" bn="5001">
+			<author>Charli Bum</author>
+		    	<name>Book 2</name>
+		</book>
+
+		<book an="5" bn="4002">
+			<author>Charli Bum</author>
+		    	<name>Book 3</name>
+		</book>
+
+		<book an="6" bn="6000">
+			<author>Christofer Dawn</author>
+		    	<name>Book 1</name>
+		</book>
+	</books>

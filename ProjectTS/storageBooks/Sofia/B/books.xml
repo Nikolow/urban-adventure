@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<books>
+		<book bn="3000" an="3">
+			<author>Bob Ko</author>
+		    	<name>Book 1</name>
+		</book>
+
+		<book bn="3001" an="3">
+			<author>Bob Ko</author>
+		    	<name>Book 2</name>
+		</book>
+
+		<book an="3" bn="3002">
+			<author>Bob Ko</author>
+		    	<name>Book 3</name>
+		</book>
+
+		<book an="4" bn="4000">
+			<author>Ben Shock</author>
+		    	<name>Book 1</name>
+		</book>
+	</books>

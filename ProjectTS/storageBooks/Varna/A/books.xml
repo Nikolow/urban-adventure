@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<books>
+		<book an="7" bn="7000">
+			<author>Ali Nark</author>
+		    	<name>Book 1</name>
+		</book>
+
+		<book an="7" bn="7001">
+			<author>Ali Nark</author>
+		    	<name>Book 2</name>
+		</book>
+
+		<book an="7" bn="7002">
+			<author>Ali Nark</author>
+		    	<name>Book 3</name>
+		</book>
+
+		<book an="8" bn="8000">
+			<author>Anna Andrews</author>
+		    	<name>Book 1</name>
+		</book>
+	</books>

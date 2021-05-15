@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<books>
+		<book bn="1000" an="1">
+			<author>Alexander Azimov</author>
+		    	<name>End of spirit</name>
+		</book>
+
+		<book bn="1001" an="1">
+			<author>Alexander Azimov</author>
+		    	<name>Start of spirit</name>
+		</book>
+
+		<book bn="1002" an="1">
+			<author>Alexander Azimov</author>
+		    	<name>The Clock</name>
+		</book>
+
+		<book bn="2000" an="2">
+			<author>Adnan Ninov</author>
+		    	<name>The Beginning</name>
+		</book>
+	</books>

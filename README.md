@@ -36,13 +36,13 @@ grid (result) should display the author and assigned books. Please use single sq
 <br>
 
 # Description
-The Project is separated in two base lines.
+The Project is separated into two baselines.
 
 1. The XML Parser
-- This part is where we have a basic PHP Script that is supposed to be executed regularly as a Cron Job
+- This part includes a basic PHP Script that is supposed to be executed regularly as a Cron Job
 
 2. The Main Page
-- This part is where we have all records from the XML with a basic search form
+- This part contains the all records from the XML with an extra search form
 
 <br>
 
@@ -59,7 +59,7 @@ The Project is separated in two base lines.
 # The Main Page
 > For building the Main Page we need to crate basic MVC Framework with a simple strucure.
 
-* The Model: Which is taking care of the iteraction with the DB
+* The Model: Which is taking care of the interaction with the DB
 * The Controller: Which mediates with the Model and the View
 * The View: Which is the visual presentation of the web pages
 <br><br>
@@ -85,7 +85,7 @@ Description:
 - Delete button: Deletes the Book from DB [Only the book]
 - Sort links: Sorts the data by their ID [DESC, ASC]
 - Search Form: Search by Author Name
-- Table scroll: For better user exprience
+- Table scroll: For better user experience
 
 <br>
 
@@ -107,9 +107,9 @@ Used technologies in the Framework View:
 <br>
 
 # The XML Parser
-> From my vision we have a storage folder based on some value point (Cities for example). In each folder there have subfolders again with some value point (The Authors first Letter for example).
+> From my vision we have a storage folder based on some value point (Cities for example). In each folder there are subfolders again with some value point (The Authors first Letter for example).
 
-Strucutre of the Directories:
+Structure of the Directories:
 
 ---
 
@@ -117,38 +117,38 @@ Strucutre of the Directories:
 
 ---
 
-Strucutre of the XML Files:
+Structure of the XML Files:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 	<books>
 		<book bn="1000" an="1">
 			<author>Author Name 1</author>
-		    	<name>Book Name 1</name>
+		    	<name>Book Name 1</name>
 		</book>
 
 		<book bn="1001" an="1">
 			<author>Author Name 1</author>
-		    	<name>Book Name 2</name>
+		    	<name>Book Name 2</name>
 		</book>
 
 		<book bn="1002" an="1">
 			<author>Author Name 1</author>
-		    	<name>Book Name 3</name>
+		    	<name>Book Name 3</name>
 		</book>
 
 		<book bn="2000" an="2">
 			<author>Author Name 2</author>
-		    	<name>Book Name 1</name>
+		    	<name>Book Name 1</name>
 		</book>
 	</books>
 ```
-In the XML files on each book we have <u>uniqie</u> <b>book numbers</b> and <b>author numbers</b>
+In the XML files on each book we have <u>unique</u> <b>book numbers</b> and <b>author numbers</b>
 
 <br><br>
 
 ---
 
-> Used a basic HTML, just to be sure that everything is OK with the output. We do not need fancy view of this cron job php script..
+> I used a basic HTML, just to be sure that everything is OK with the output. We do not need fancy view of this cron job php script.
 
 Results after running the script:
 

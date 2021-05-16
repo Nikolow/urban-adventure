@@ -42,7 +42,7 @@ The Project is separated into two baselines.
 - This part includes a basic PHP Script that is supposed to be executed regularly as a Cron Job
 
 2. The Main Page
-- This part contains the all records from the XML with an extra search form
+- This part contains all records from the XML with an extra search form
 
 <br>
 
@@ -57,7 +57,7 @@ The Project is separated into two baselines.
 <br>
 
 # The Main Page
-> For building the Main Page we need to crate basic MVC Framework with a simple strucure.
+> For building the Main Page we need to create basic MVC Framework with a simple structure.
 
 * The Model: Which is taking care of the interaction with the DB
 * The Controller: Which mediates with the Model and the View

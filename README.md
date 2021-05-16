@@ -36,13 +36,14 @@ grid (result) should display the author and assigned books. Please use single sq
 <br>
 
 # Description
-The Project is separated into two baselines.
+The Project is separated into two baselines:
 
 1. The XML Parser
 - This part includes a basic PHP Script that is supposed to be executed regularly as a Cron Job
 
 2. The Main Page
-- This part contains all records from the XML with an extra search form
+- This part contains all records from the XML with an extra 
+form
 
 <br>
 
@@ -64,7 +65,7 @@ The Project is separated into two baselines.
 * The View: Which is the visual presentation of the web pages
 <br><br>
 
-> Here we have only one page with basic structure and one search feild.
+> Here we have only one page with basic structure and one search field.
 
 <br>
 
